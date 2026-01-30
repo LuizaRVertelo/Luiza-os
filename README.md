@@ -43,6 +43,8 @@ O projeto utiliza uma paleta de cores focada em **foco, calma e profissionalismo
 - `Roxo` (670093)
 - `Lilás` (d891e8)
 
+Fonte
+- `Raleway`
 ---
 
 ## 🧘 Princípios do Projeto
