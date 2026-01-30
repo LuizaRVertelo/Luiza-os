@@ -37,9 +37,11 @@ O objetivo é consolidar minha jornada como **Desenvolvedora de Projetos** e **A
 
 ## 🎨 Identidade Visual
 O projeto utiliza uma paleta de cores focada em **foco, calma e profissionalismo**:
-- `Cinza Espacial` e `Preto` (Sobriedade)
-- `Branco` (Clareza)
-- `Roxo/Lilás` (Tecnologia e Criatividade)
+- `Cinza Espacial` (cccccc)
+- `Preto` (1e1b18) 
+- `Branco` (fffaff)
+- `Roxo` (670093)
+- `Lilás` (d891e8)
 
 ---
 
